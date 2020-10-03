@@ -20,12 +20,12 @@ function App() {
   const [isCorrect, setIsCorrect] = useState(true)
   const callback = ()=>{setCurrentWord(currentWord+1); setValue('')}
   const addTime = ()=>{
-    setTime(time+1);
-    setInitialTime(initialTime+1);
+    setTime(time+5);
+    setInitialTime(initialTime+5);
   }
   const subtractTime = ()=>{
-    setTime(time-1);
-    setInitialTime(initialTime-1);
+    setTime(time-5);
+    setInitialTime(initialTime-5);
   }
 
   const handleValue=()=>{
