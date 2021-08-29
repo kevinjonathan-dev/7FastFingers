@@ -1,5 +1,5 @@
 # 7fastfingers
-10fastfingers is not perfect, but it's still my favourite typing test app by far. 7fastfingers aims to solve all the problems I have with 10fastfingers, creating the ideal typing test for me. I only use 7 fingers to type anyway. This app is front-end only using React.js. Wordlist contains 100 most used words in English
+10fastfingers is not perfect, but it's still my favourite typing test app by far. 7fastfingers aims to solve all the problems I have with 10fastfingers, creating the ideal typing test for me. I only use 7 fingers to type anyway. Built with React.js. Wordlist contains 100 most used words in English
 
 ## Installation
 * git clone
@@ -16,14 +16,9 @@
 * Adjustable timer (and the speed calculator will match accordingly)
 * Pressing spacebar doesn't skip word immediately
 
-## You can try it here!
-https://www.jojobug.com/7fastfingers
-
 ### Upcoming
 * More Wordlists
 * Language Selection
 * Custom Wordlist
 * Names & high score!!!
 * Mobile-friendliness (First letter capitalization & mobile layout)
-
-bye
